@@ -1,0 +1,10 @@
+.loadBar {
+	background: url(../images/loadBar.png) no-repeat;
+	width: 300px;
+	height: 15px;
+	border:1px solid silver; 
+	}
+.overlay {
+	float:right;
+	height:15px;
+	}

@@ -1,0 +1,59 @@
+.hcenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.vpos {
+	margin-top: 5em;
+}
+
+.text {
+	width: 70%;
+	margin: auto;
+}
+
+.lgtxt {	
+	margin-top: 2em;
+	font-size: 300%;
+}
+
+.mdtxt {
+	font-size: 200%;
+}
+
+.smtxt {
+	font-size: 100%;
+}
+
+.hctext {
+	text-align: center;
+}
+
+.topmargin0 {
+	margin-top: 0;
+}
+
+.topmargin1 {
+	margin-top: 1em;
+}
+
+.topmargin3 {
+	margin-top: 3em;
+}
+
+.topmargin5 {
+	margin-top: 5em;
+}
+
+.topmargin7 {
+	margin-top: 7em;
+}
+
+.botmargin0 {
+	margin-bottom: 0;
+}
+
+.footer {
+	bottom: 0;
+}
